@@ -5,4 +5,6 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="buttoncolor">#F4BC3B</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="headingtextcolor">#000000</color>
 </resources>
